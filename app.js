@@ -1,1 +1,40 @@
+// var rightNow = new Date();
+// // var theDay = rightNow.getDay();
+// console.log(rightNow);
 
+// var rightNow = new Date();
+// console.log(rightNow.getDay());
+// console.log(rightNow.getMonth());
+// console.log(rightNow.getDate());
+// console.log(rightNow.getFullYear());
+// console.log(rightNow.getMinutes());
+// console.log(rightNow.getSeconds());
+// console.log(rightNow.getMilliseconds());
+// console.log(rightNow.getTime());
+
+
+// var rightNow = new Date();
+
+// rightNow.setDate(15);
+// rightNow.setMonth(10);
+// rightNow.setFullYear(2024);
+// rightNow.setHours(12);
+// rightNow.setMinutes(30);
+// rightNow.setSeconds(45);
+// rightNow.setMilliseconds(500);
+// console.log(rightNow.getDay());
+// console.log(rightNow.getMonth());
+// console.log(rightNow.getDate());
+// console.log(rightNow.getFullYear());
+// console.log(rightNow.getHours());
+// console.log(rightNow.getMinutes());
+// console.log(rightNow.getSeconds());
+// console.log(rightNow.getMilliseconds());
+// console.log(rightNow.getTime());
+
+
+// const dob = new Date(2005, 10, 18);
+
+// console.log("Date of Birth:", dob.toDateString());
+// console.log("Year:", dob.getFullYear());
+// console.log("Day:", dob.getDay()); 
